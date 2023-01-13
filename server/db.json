@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "fortune": "A smile is your personal welcome mat.",
+        "type": "good"
+    },
+    {
+        "id": 2,
+        "fortune": "You have a friendly heart and are well admired.",
+        "type": "good"
+    },    
+    {
+        "id": 3,
+        "fortune": "Wish you happiness.",
+        "type": "good"
+    },
+    {
+      "id": 4,
+      "fortune": "You're just okay",
+      "type": "bad"
+    },    
+    {
+        "id": 5,
+        "fortune": "When life gives you lemons throw them at someone",
+        "type": "bad"
+      },
+      {
+        "id": 6,
+        "fortune": "Give up",
+        "type": "bad"
+      }
+    ]
